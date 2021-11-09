@@ -1,0 +1,11 @@
+.bookmark-container {
+  display: flex;
+}
+
+.bookmark-name {
+  padding-right: 1rem;
+}
+
+.bookmark-add-container {
+  display: flex;
+}
